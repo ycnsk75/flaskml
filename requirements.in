@@ -1,0 +1,12 @@
+# Web
+flask
+
+# ML Libraries
+numpy
+scikit-learn
+seaborn
+
+# Code Best Practices
+pre-commit
+black
+isort
